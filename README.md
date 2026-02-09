@@ -1,6 +1,8 @@
 # Order Management App
 Live Url: https://order-management-teal-mu.vercel.app/
 
+GitHub Url: https://github.com/nayan-raj-shah/order-management
+
 A simple order management web application built with **Next.js (App Router)**.  
 The app allows users to browse a menu, add items to a cart, place orders, and track order status updates.
 
@@ -36,6 +38,9 @@ This project was developed as a take-home assignment with a focus on **clean arc
 
 ### Prerequisites
 - Node.js 18+
+
+### .env
+NEXT_PUBLIC_BASE_URL="http://localhost:3000"
 
 ### Install dependencies
 ```bash
