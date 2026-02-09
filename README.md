@@ -40,7 +40,9 @@ This project was developed as a take-home assignment with a focus on **clean arc
 - Node.js 18+
 
 ### .env
+```bash
 NEXT_PUBLIC_BASE_URL="http://localhost:3000"
+```
 
 ### Install dependencies
 ```bash
